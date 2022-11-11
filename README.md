@@ -8,9 +8,15 @@ In this exercise, you will have to create a BERT model and then train it on the 
 Requirements: 
 
 numpy==1.19.2
+
 pandas==1.1.5
+
 scikit-learn==0.24.2
+
 torch==1.8.1
+
 torchvision==0.9.1
+
 transformers==4.6.1
+
 datasets==1.8.0
